@@ -1,0 +1,50 @@
+{
+"devices":
+	[
+		{
+			"id": "1234",
+			"deviceName": "device 1",
+			"deviceDate": "27/05/2019 17:15",
+			"deviceDescription": "text description device 1",
+			"status": "active",
+			"worksShabbat": "yes",
+			"startActivity": "28/05/2019 07:30",
+			"deviceStatistica30": "3",
+			"deviceStatistica60": "8",
+			"lastMovement": "02/06/2019 09:10",
+			"priceSek": "30",
+			"priceDoll": "10",
+			"summDayEnd": "2000"
+		}, 
+		{
+			"id": "5678",
+			"deviceName": "device 2",
+			"deviceDate": "29/05/2019 17:15",
+			"deviceDescription": "text description device 2",
+			"status": "requires tracking",
+			"worksShabbat": "yes",
+			"startActivity": "30/05/2019 07:30",
+			"deviceStatistica30": "2",
+			"deviceStatistica60": "8",
+			"lastMovement": "01/06/2019 21:05",
+			"priceSek": "250",
+			"priceDoll": "71",
+			"summDayEnd": "350"
+		}, 
+		{
+			"id": "9012",
+			"deviceName": "device 3",
+			"deviceDate": "12/05/2019 17:15",
+			"deviceDescription": "text description device 3",
+			"status": "disabled",
+			"worksShabbat": "yes",
+			"startActivity": "13/05/2019 07:30",
+			"deviceStatistica30": "5",
+			"deviceStatistica60": "5",
+			"lastMovement": "02/06/2019 07:35",
+			"priceSek": "150",
+			"priceDoll": "50",
+			"summDayEnd": "700"
+		}
+	]
+}
